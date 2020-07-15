@@ -1,0 +1,19 @@
+.array-container {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+  font-size: 14px;
+  /* border: 2px black solid; */
+  padding: 5px;
+  height: 90vh;
+  margin-bottom: 20px;
+  /* background-color: black; */
+}
+
+.array-bar {
+  width: 3.5px;
+  background-color: #65bda3a4;
+  filter: brightness(75%);
+  margin: 2px;
+}
